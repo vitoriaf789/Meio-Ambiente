@@ -8,7 +8,7 @@
 <p>A cidadania para a preservação do meio ambiente deve contemplar atividades e noções que contribuem para a conservação do meio ambiente.</p>
 </head>
 <body>
-<strong>Dicas para preservar o meio ambiente</strong>
+<strong>Dicas </strong> para preservar o meio ambiente
 <p>Precisamos preservar o que preserva nossa vida</p>
 <link rel="href=" torneira.jpg ">
 <p>-Economize energia</p>
